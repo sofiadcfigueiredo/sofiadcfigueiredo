@@ -12,8 +12,9 @@
 |----------|---------|----------|-------|
 | HTML5 | PHP (procedural & OOP) | MySQL | Git |
 | CSS3 | Python | SQL | GitHub |
-| Bootstrap | PHP-MySQL | Basic JOINs | VS Code |
-| JavaScript | CRUD operations | | Debugging |
+| Bootstrap | PHP-MySQL | MongoDB | VS Code |
+| JavaScript | CRUD operations | Basic JOINs | Debugging |
+| React | API Integration | localStorage | Versioning |
 
 ---
 
@@ -26,6 +27,13 @@
 - 🔐 Security features: encrypted passwords, reCAPTCHA, login history
 - 📱 Responsive design with Bootstrap
 - 🖥️ WYSIWYG text editor in backoffice
+
+### [✅ Task Manager App](https://github.com/sofiadcfigueiredo/task-manager-app)
+*Side Project*
+- Built with React for task management
+- Data persistence using localStorage (browser-based storage)
+- Integration with public API for external data
+- Organized commits and Git best practices
 
 ### [📄 Online Resume](https://sofiadcfigueiredo.github.io/curriculo)
 *HTML/CSS resume*
@@ -59,4 +67,5 @@
 
 📫 **Email:** sofiadcfigueiredo@outlook.com
 
+---
 *"From pharmaceutical precision to code logic — always focused on quality and security."*
